@@ -1,0 +1,64 @@
+g.highcharts-input-group{
+  display:none;
+}
+
+.container-area{
+  position: relative;
+  height: 300px;
+  width: 100%;
+  top: -28px;
+}
+
+.custom-style{
+  width: 799px;
+}
+
+.analysis{
+  text-align: left;
+  .analysis-header{
+    font-weight:bold;
+    margin-bottom:10px;
+  }
+  ul{
+    list-style:disc;
+    padding-left: 20px;
+    font-size:15px;
+  }
+}
+.modal-title{
+  color:$primary-color;
+}
+.modal-header{
+  border-bottom:none;
+}
+.line-break{
+  position: absolute;
+
+  margin-top: 5px;
+  margin-bottom: 0;
+  border: 0;
+  width: 20%;
+  border-top: 1px solid #eee;
+  left: 16px;
+}
+.popup-grid{
+  display:flex;
+  flex-flow:row wrap;
+  justify-content:space-between;
+  .banks-table {
+    flex-basis: 100%;
+    border-bottom: 1px solid $tertiary-color;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9rem;
+    //margin-right: 6rem;
+    color: #7A7A7A;
+  }
+}
+.elec-font{
+  font-size:12px;
+  position: absolute;
+  top: -15px;
+}
