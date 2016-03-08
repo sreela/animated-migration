@@ -1,0 +1,14 @@
+.tmp/*
+node_modules/*
+frontend_ui/*
+/bin
+*/.zip
+bower_components/*
+.git/*
+.idea/*
+npm_debug
+src/ViewerJS/*
+coverage/*
+src/.idea/
+src/*
+test/*
