@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+    <style>
+        /* This helps the ng-show/ng-hide animations start at the right place. */
+        /* Since Angular has this but needs to load, this gives us the class early. */
+        .ng-hide {
+            display: none !important;
+        }
+
+        .ng-cloak {
+            display: none !important;
+        }
+    </style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="cache-control" content="max-age=0"/>
+    <meta http-equiv="cache-control" content="no-cache"/>
+    <meta http-equiv="cache-control" content="no-store"/>
+    <meta http-equiv="cache-control" content="must-revalidate"/>
+    <meta http-equiv="expires" content="0"/>
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT"/>
+    <meta http-equiv="pragma" content="no-cache"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="static/images/favicon.jpg">
+    <script src="https://www.amcharts.com/lib/3/ammap.js"></script>
+    <script src="https://www.amcharts.com/lib/3/maps/js/worldLow.js"></script>
+    <script src="https://www.amcharts.com/lib/3/maps/js/indiaHigh.js"></script>
+    <script src="https://www.amcharts.com/lib/3/themes/dark.js"></script>
+    <script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+    <script src="https://www.amcharts.com/lib/3/themes/none.js"></script>
+
+
+    <title>Metric Tool</title>
+
+    <link rel="stylesheet" href="styles/app.css"/>
+
+    <!--[if lt IE 11]>
+
+    <script type="text/javascript">
+        location.replace('ieSpecs.html');
+    </script>
+
+    <![endif]-->
+
+</head>
+
+<body data-ng-app="sapeLabs">
+
+<!--[if gte IE 11]><!-->
+<div id="body-content">
+    <div ui-view class='main-view'></div>
+</div>
+<!--[if gte IE 11]><!-->
+
+<script src="scripts/vendor.js"></script>
+
+<script src="scripts/app.js"></script>
+</body>
+</html>

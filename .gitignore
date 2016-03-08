@@ -1,8 +1,8 @@
 .tmp/*
 node_modules/*
 frontend_ui/*
-dist/*
 /bin
+*/.zip
 bower_components/*
 .git/*
 .idea/*
