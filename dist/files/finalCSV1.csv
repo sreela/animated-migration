@@ -1,0 +1,2290 @@
+JobCity,tolat,tolong,CollegeState,fromlat,fromlong
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Delhi,28.61,77.23
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Delhi,28.61,77.23
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+mumbai,18.95,72.83,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+chennai,13.07,80.28,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Chhattisgarh,20.91,82
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Rajasthan,27.02,74.21
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+chennai,13.07,80.28,Rajasthan,27.02,74.21
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Jammu and Kashmir,34.09,74.79
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+noida,28.57,77.35,Punjab,30.75,76.78
+kolkata,22.56,88.34,Jharkhand,23.35,85.33
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+noida,28.57,77.35,Punjab,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Haryana,30.75,76.78
+hyderabad,17.36,78.47,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+kolkata,22.56,88.34,Karnataka,12.96,77.56
+chennai,13.07,80.28,Rajasthan,27.02,74.21
+noida,28.57,77.35,Delhi,28.61,77.23
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Delhi,28.61,77.23
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Rajasthan,27.02,74.21
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+noida,28.57,77.35,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+noida,28.57,77.35,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Chhattisgarh,20.91,82
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Jammu and Kashmir,34.09,74.79
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+noida,28.57,77.35,Rajasthan,27.02,74.21
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+gurgaon,28.46,77.02,Orissa,20.27,85.84
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Punjab,30.75,76.78
+noida,28.57,77.35,Haryana,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Madhya Pradesh,23.25,77.41
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Karnataka,12.96,77.56
+noida,28.57,77.35,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Punjab,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Bihar,25.6,85.1
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+jaipur,26.91,75.82,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,Orissa,20.27,85.84
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Delhi,28.61,77.23
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+kolkata,22.56,88.34,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Jharkhand,23.35,85.33
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+jaipur,26.91,75.82,Uttarakhand,30.06,79.01
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Assam,26.14,91.79
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Punjab,30.75,76.78
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Maharashtra,18.97,72.82
+gurgaon,28.46,77.02,Rajasthan,27.02,74.21
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+jaipur,26.91,75.82,Delhi,28.61,77.23
+chennai,13.07,80.28,Uttarakhand,30.06,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+kolkata,22.56,88.34,Orissa,20.27,85.84
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Rajasthan,27.02,74.21
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Haryana,30.75,76.78
+noida,28.57,77.35,Jharkhand,23.35,85.33
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Delhi,28.61,77.23
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Haryana,30.75,76.78
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,Orissa,20.27,85.84
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Maharashtra,18.97,72.82
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Haryana,30.75,76.78
+noida,28.57,77.35,Punjab,30.75,76.78
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Punjab,30.75,76.78
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+noida,28.57,77.35,Delhi,28.61,77.23
+noida,28.57,77.35,Punjab,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Haryana,30.75,76.78
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+noida,28.57,77.35,Haryana,30.75,76.78
+kolkata,22.56,88.34,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Goa,15.49,73.82
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Haryana,30.75,76.78
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Delhi,28.61,77.23
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+mumbai,18.95,72.83,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Telangana,18.11,79.01
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+noida,28.57,77.35,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Haryana,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+kolkata,22.56,88.34,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+mumbai,18.95,72.83,Haryana,30.75,76.78
+hyderabad,17.36,78.47,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Rajasthan,27.02,74.21
+chennai,13.07,80.28,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+noida,28.57,77.35,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Punjab,30.75,76.78
+mumbai,18.95,72.83,Orissa,20.27,85.84
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttarakhand,30.06,79.01
+chennai,13.07,80.28,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,Punjab,30.75,76.78
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+noida,28.57,77.35,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+chennai,13.07,80.28,West Bengal,22.98,87.85
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+mumbai,18.95,72.83,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+mumbai,18.95,72.83,Haryana,30.75,76.78
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Chhattisgarh,20.91,82
+bengaluru,12.97,77.59,Kerala,8.48,76.95
+mumbai,18.95,72.83,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Jharkhand,23.35,85.33
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Uttarakhand,30.06,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+jaipur,26.91,75.82,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Punjab,30.75,76.78
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Kerala,8.48,76.95
+chennai,13.07,80.28,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Sikkim,27.53,88.51
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+gurgaon,28.46,77.02,Sikkim,27.53,88.51
+chennai,13.07,80.28,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Jharkhand,23.35,85.33
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Delhi,28.61,77.23
+chennai,13.07,80.28,Delhi,28.61,77.23
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+chennai,13.07,80.28,Telangana,18.11,79.01
+chennai,13.07,80.28,Punjab,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Chhattisgarh,20.91,82
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Orissa,20.27,85.84
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Rajasthan,27.02,74.21
+noida,28.57,77.35,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Madhya Pradesh,23.25,77.41
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+noida,28.57,77.35,Punjab,30.75,76.78
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Rajasthan,27.02,74.21
+gurgaon,28.46,77.02,Uttarakhand,30.06,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+noida,28.57,77.35,Madhya Pradesh,23.25,77.41
+noida,28.57,77.35,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+chennai,13.07,80.28,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Orissa,20.27,85.84
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+kolkata,22.56,88.34,Rajasthan,27.02,74.21
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+chennai,13.07,80.28,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Chhattisgarh,20.91,82
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+gurgaon,28.46,77.02,Uttarakhand,30.06,79.01
+noida,28.57,77.35,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Maharashtra,18.97,72.82
+noida,28.57,77.35,Delhi,28.61,77.23
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+kolkata,22.56,88.34,Jharkhand,23.35,85.33
+noida,28.57,77.35,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+jaipur,26.91,75.82,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Uttarakhand,30.06,79.01
+gurgaon,28.46,77.02,Orissa,20.27,85.84
+noida,28.57,77.35,Rajasthan,27.02,74.21
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+kolkata,22.56,88.34,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+chennai,13.07,80.28,Uttarakhand,30.06,79.01
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+noida,28.57,77.35,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+mumbai,18.95,72.83,Punjab,30.75,76.78
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+mumbai,18.95,72.83,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Madhya Pradesh,23.25,77.41
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Union Territory,10.91,79.79
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Orissa,20.27,85.84
+noida,28.57,77.35,Haryana,30.75,76.78
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+kolkata,22.56,88.34,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+chennai,13.07,80.28,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Himachal Pradesh,31.1,77.17
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+chennai,13.07,80.28,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Delhi,28.61,77.23
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Chhattisgarh,20.91,82
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Delhi,28.61,77.23
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Chhattisgarh,20.91,82
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Punjab,30.75,76.78
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+noida,28.57,77.35,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Delhi,28.61,77.23
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+gurgaon,28.46,77.02,Rajasthan,27.02,74.21
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+noida,28.57,77.35,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+chennai,13.07,80.28,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Jharkhand,23.35,85.33
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+jaipur,26.91,75.82,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Punjab,30.75,76.78
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Chhattisgarh,20.91,82
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+gurgaon,28.46,77.02,Jharkhand,23.35,85.33
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Himachal Pradesh,31.1,77.17
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+kolkata,22.56,88.34,Punjab,30.75,76.78
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Chhattisgarh,20.91,82
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Delhi,28.61,77.23
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Bihar,25.6,85.1
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Maharashtra,18.97,72.82
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+jaipur,26.91,75.82,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Madhya Pradesh,23.25,77.41
+chennai,13.07,80.28,Punjab,30.75,76.78
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Orissa,20.27,85.84
+noida,28.57,77.35,Delhi,28.61,77.23
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Haryana,30.75,76.78
+noida,28.57,77.35,Haryana,30.75,76.78
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Delhi,28.61,77.23
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Uttarakhand,30.06,79.01
+hyderabad,17.36,78.47,Uttarakhand,30.06,79.01
+chennai,13.07,80.28,Telangana,18.11,79.01
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+gurgaon,28.46,77.02,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Delhi,28.61,77.23
+mumbai,18.95,72.83,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Chhattisgarh,20.91,82
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Chhattisgarh,20.91,82
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Kerala,8.48,76.95
+jaipur,26.91,75.82,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Jharkhand,23.35,85.33
+bengaluru,12.97,77.59,Assam,26.14,91.79
+gurgaon,28.46,77.02,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Punjab,30.75,76.78
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Chhattisgarh,20.91,82
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Punjab,30.75,76.78
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+chennai,13.07,80.28,West Bengal,22.98,87.85
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Delhi,28.61,77.23
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Chhattisgarh,20.91,82
+kolkata,22.56,88.34,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Rajasthan,27.02,74.21
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+noida,28.57,77.35,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Haryana,30.75,76.78
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Telangana,18.11,79.01
+kolkata,22.56,88.34,Karnataka,12.96,77.56
+noida,28.57,77.35,Delhi,28.61,77.23
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+kolkata,22.56,88.34,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+kolkata,22.56,88.34,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Gujarat,23.22,72.68
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+noida,28.57,77.35,Punjab,30.75,76.78
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+noida,28.57,77.35,Punjab,30.75,76.78
+noida,28.57,77.35,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Orissa,20.27,85.84
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Jammu and Kashmir,34.09,74.79
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+noida,28.57,77.35,Delhi,28.61,77.23
+gurgaon,28.46,77.02,Rajasthan,27.02,74.21
+noida,28.57,77.35,Orissa,20.27,85.84
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Rajasthan,27.02,74.21
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Bihar,25.6,85.1
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+mumbai,18.95,72.83,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Delhi,28.61,77.23
+gurgaon,28.46,77.02,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Kerala,8.48,76.95
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Uttarakhand,30.06,79.01
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Jharkhand,23.35,85.33
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Kerala,8.48,76.95
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Himachal Pradesh,31.1,77.17
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+gurgaon,28.46,77.02,Uttarakhand,30.06,79.01
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+noida,28.57,77.35,Haryana,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,Orissa,20.27,85.84
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Jharkhand,23.35,85.33
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+chennai,13.07,80.28,Telangana,18.11,79.01
+chennai,13.07,80.28,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Assam,26.14,91.79
+gurgaon,28.46,77.02,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+mumbai,18.95,72.83,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Rajasthan,27.02,74.21
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Telangana,18.11,79.01
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+mumbai,18.95,72.83,Karnataka,12.96,77.56
+noida,28.57,77.35,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+noida,28.57,77.35,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+noida,28.57,77.35,Jharkhand,23.35,85.33
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+mumbai,18.95,72.83,West Bengal,22.98,87.85
+chennai,13.07,80.28,Maharashtra,18.97,72.82
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Delhi,28.61,77.23
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+noida,28.57,77.35,Orissa,20.27,85.84
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+kolkata,22.56,88.34,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Haryana,30.75,76.78
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+kolkata,22.56,88.34,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+chennai,13.07,80.28,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Delhi,28.61,77.23
+gurgaon,28.46,77.02,Rajasthan,27.02,74.21
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,West Bengal,22.98,87.85
+noida,28.57,77.35,Delhi,28.61,77.23
+chennai,13.07,80.28,Madhya Pradesh,23.25,77.41
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Rajasthan,27.02,74.21
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+noida,28.57,77.35,Punjab,30.75,76.78
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,Orissa,20.27,85.84
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+chennai,13.07,80.28,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+chennai,13.07,80.28,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+kolkata,22.56,88.34,Orissa,20.27,85.84
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+mumbai,18.95,72.83,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Rajasthan,27.02,74.21
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Telangana,18.11,79.01
+noida,28.57,77.35,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Kerala,8.48,76.95
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttarakhand,30.06,79.01
+gurgaon,28.46,77.02,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Maharashtra,18.97,72.82
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Madhya Pradesh,23.25,77.41
+gurgaon,28.46,77.02,Madhya Pradesh,23.25,77.41
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+jaipur,26.91,75.82,Haryana,30.75,76.78
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+chennai,13.07,80.28,Rajasthan,27.02,74.21
+noida,28.57,77.35,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Jammu and Kashmir,34.09,74.79
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Telangana,18.11,79.01
+noida,28.57,77.35,Haryana,30.75,76.78
+jaipur,26.91,75.82,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Bihar,25.6,85.1
+noida,28.57,77.35,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Kerala,8.48,76.95
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Madhya Pradesh,23.25,77.41
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+kolkata,22.56,88.34,Orissa,20.27,85.84
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Madhya Pradesh,23.25,77.41
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Gujarat,23.22,72.68
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+chennai,13.07,80.28,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+chennai,13.07,80.28,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Punjab,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+jaipur,26.91,75.82,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Haryana,30.75,76.78
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Gujarat,23.22,72.68
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Maharashtra,18.97,72.82
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Rajasthan,27.02,74.21
+noida,28.57,77.35,Punjab,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Haryana,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Rajasthan,27.02,74.21
+noida,28.57,77.35,Haryana,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Haryana,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Rajasthan,27.02,74.21
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Rajasthan,27.02,74.21
+gurgaon,28.46,77.02,Himachal Pradesh,31.1,77.17
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Punjab,30.75,76.78
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Haryana,30.75,76.78
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Orissa,20.27,85.84
+chennai,13.07,80.28,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+mumbai,18.95,72.83,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Punjab,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+kolkata,22.56,88.34,Orissa,20.27,85.84
+chennai,13.07,80.28,Bihar,25.6,85.1
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Delhi,28.61,77.23
+mumbai,18.95,72.83,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Maharashtra,18.97,72.82
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Telangana,18.11,79.01
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Madhya Pradesh,23.25,77.41
+noida,28.57,77.35,Madhya Pradesh,23.25,77.41
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Delhi,28.61,77.23
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Chhattisgarh,20.91,82
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+mumbai,18.95,72.83,Himachal Pradesh,31.1,77.17
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+jaipur,26.91,75.82,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Jharkhand,23.35,85.33
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Karnataka,12.96,77.56
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Uttarakhand,30.06,79.01
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Delhi,28.61,77.23
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+mumbai,18.95,72.83,Punjab,30.75,76.78
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+gurgaon,28.46,77.02,Karnataka,12.96,77.56
+jaipur,26.91,75.82,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Haryana,30.75,76.78
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Punjab,30.75,76.78
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Uttarakhand,30.06,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Jharkhand,23.35,85.33
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,West Bengal,22.98,87.85
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+mumbai,18.95,72.83,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Delhi,28.61,77.23
+noida,28.57,77.35,Haryana,30.75,76.78
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Telangana,18.11,79.01
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Delhi,28.61,77.23
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Maharashtra,18.97,72.82
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Delhi,28.61,77.23
+noida,28.57,77.35,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+mumbai,18.95,72.83,Madhya Pradesh,23.25,77.41
+kolkata,22.56,88.34,Rajasthan,27.02,74.21
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Tamil Nadu,11.12,78.65
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+kolkata,22.56,88.34,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Himachal Pradesh,31.1,77.17
+jaipur,26.91,75.82,Rajasthan,27.02,74.21
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Haryana,30.75,76.78
+chennai,13.07,80.28,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Uttar Pradesh,26.84,80.94
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+kolkata,22.56,88.34,Orissa,20.27,85.84
+jaipur,26.91,75.82,Madhya Pradesh,23.25,77.41
+noida,28.57,77.35,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Madhya Pradesh,23.25,77.41
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Punjab,30.75,76.78
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+noida,28.57,77.35,Himachal Pradesh,31.1,77.17
+kolkata,22.56,88.34,Maharashtra,18.97,72.82
+gurgaon,28.46,77.02,Delhi,28.61,77.23
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Rajasthan,27.02,74.21
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+chennai,13.07,80.28,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+mumbai,18.95,72.83,Uttar Pradesh,26.84,80.94
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+chennai,13.07,80.28,Telangana,18.11,79.01
+noida,28.57,77.35,Delhi,28.61,77.23
+noida,28.57,77.35,West Bengal,22.98,87.85
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+bengaluru,12.97,77.59,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Uttarakhand,30.06,79.01
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Orissa,20.27,85.84
+kolkata,22.56,88.34,West Bengal,22.98,87.85
+mumbai,18.95,72.83,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+noida,28.57,77.35,Delhi,28.61,77.23
+noida,28.57,77.35,Uttar Pradesh,26.84,80.94
+mumbai,18.95,72.83,Rajasthan,27.02,74.21
+hyderabad,17.36,78.47,West Bengal,22.98,87.85
+bengaluru,12.97,77.59,Uttar Pradesh,26.84,80.94
+gurgaon,28.46,77.02,Madhya Pradesh,23.25,77.41
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+gurgaon,28.46,77.02,Haryana,30.75,76.78
+bengaluru,12.97,77.59,Maharashtra,18.97,72.82
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+bengaluru,12.97,77.59,Karnataka,12.96,77.56
+hyderabad,17.36,78.47,Andhra Pradesh,16.54,80.51
+bengaluru,12.97,77.59,Maharashtra,18.97,72.82
+hyderabad,17.36,78.47,Telangana,18.11,79.01
+bengaluru,12.97,77.59,Orissa,20.27,85.84
+chennai,13.07,80.28,Tamil Nadu,11.12,78.65
